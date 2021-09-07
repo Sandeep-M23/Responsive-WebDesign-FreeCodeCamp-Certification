@@ -3,7 +3,7 @@
 # Projects
 These projects are made for the freeCodeCamp Responsive Web Design Certification. The objective was to use HTML and plain CSS in order to build five responsive webpages that fulfill freeCodeCamp's user stories
 * Tribute Page : [Page](https://codepen.io/Sandeep_24/pen/rNwWPLV)
-* Survey Form : [Page](https://codepen.io/Sandeep_24/pen/Rwaombd)
+* Survey Page : [Page](https://codepen.io/Sandeep_24/pen/Rwaombd)
 * Product Landing Page : [Page](https://codepen.io/Sandeep_24/pen/mdPRRKm)
 * Technical Document Page : [Page](https://codepen.io/Sandeep_24/pen/oNxBzxw)
 * Personal Portfolio Webpage : [Page](https://codepen.io/Sandeep_24/pen/PoNbvBN)
