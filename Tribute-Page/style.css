@@ -1,0 +1,121 @@
+*{
+	margin:0;
+	padding: 0;
+}
+body{
+	font-family: serif;
+}
+
+header{
+	background-color: #333;
+	position: relative;
+	display: flex;
+	padding: 10px 10px 3px 10px;
+	height: 50px;
+}
+
+.logo{
+	color: white;
+}
+
+#as{
+	text-decoration: none;
+	color:grey;
+}
+
+#plus{
+	background-color:#5a5f73;
+	color: white;
+	width: 55px;
+	border: none;
+	border-radius: 2px;
+	float:right;
+	position: relative;
+	bottom: 14px;
+}
+#login{
+	color: white;
+	position: relative;
+	bottom: 1px;
+	left:83%;
+	background-color: #444857;
+	width: 75px;
+	height: 45px;
+	font-weight: bold;
+	padding: 1px;
+	border-radius: 5px;
+	border:none;
+}
+
+#signup{
+	color: black;
+	position: relative;
+	bottom: 1px;
+	left:72%;
+	background-color: #69e469;
+	border:none;
+	font-weight: bold;
+	width: 75px;
+	height: 45px;
+	padding: 1px;
+	border-radius: 5px;
+}
+
+.body{
+	background-color: white;
+	padding: 30px;
+}
+.main{
+	background-color: #eee;
+	padding: 20px;
+	border-radius: 10px;
+}
+.intro{
+	padding: 20px;
+	text-align: center;
+}
+section{
+	background-color: white;
+}
+h1{
+	font-size: 3rem;
+}
+#sec{
+	text-align: center;
+}
+#img_caption{
+	color: gray;
+	padding: 15px;
+	font-size: large;
+}
+#time_line{
+	text-align: center;
+	padding: 40px;
+	font-size: x-large;
+}
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+li {
+  margin: 16px 0;
+  color: #333333;
+}
+blockquote{
+	max-width: 545px;
+	margin: 0 auto 50px auto;
+	text-align: left;
+	font-style: italic;
+	color: #896b6b;
+	font-size: large;
+}
+h3{
+	text-align: center;
+}
+#tribute_link{
+	font-size: larger;
+	color: #14a1d0;
+}

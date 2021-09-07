@@ -1,0 +1,131 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	font-family: sans-serif;
+}
+header{
+	background-color: #252735;
+	color: white;
+	height: 62px;
+	border:0;
+}
+.right{
+	padding: 10px 10px 0px 15px;
+}
+#log{
+	font-size:x-large;
+}
+#ap{
+	text-decoration:none;
+	color: gray;
+}
+#plus{
+	background-color: #5A5F73;
+	color: white;
+	position: relative;
+	left:125px;
+	bottom: 17px;
+	width: 53px;
+	border-radius: 2px;
+	border:none;
+}
+#signup{
+	position: relative;
+	left: 86%;
+	bottom: 61px;
+	width: 75px;
+	height: 40px;
+	background-color: #3cde3c;
+	font-size: 1rem;
+	color: black;
+	border: none;
+	border-radius: 5px;
+}
+#login{
+	position: relative;
+	left: 87%;
+	bottom: 61px;
+	width: 75px;
+	height: 40px;
+	background-color: #444857;
+	font-size: 1rem;
+	color: white;
+	border: none;
+	border-radius: 5px;
+}
+article{
+	background: url(images/people_coding.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+#heading{
+	text-align: center;
+	padding: 45px 0px 10px 0px;
+	font-size: 2rem;
+	color: white;
+}
+#heading_2{
+	text-align: center;
+	padding-bottom: 20px;
+	font-size: 1.5rem;
+	color: white;
+}
+form{
+	max-width: 630px;
+	margin: 0 auto 0 auto;
+	text-align: left;
+	padding: 30px;
+	background-color: rgba(13,13,70,0.8);
+	color: white;
+	border-radius: 5px;
+}
+.form_group{
+	padding:10px 0px 10px 10px;
+}
+.form_group label{
+	font-size:large;
+}
+.form_group input{
+	width: 600px;
+	height: 40px;
+	border-radius: 5px;
+	margin-top: 10px;
+	padding-left: 0.75rem;
+
+}
+.fo_group{
+	padding: 10px 0px 10px 10px;
+}
+.fo_group label{
+	font-size: large;
+}
+.fo_group input{
+	width: 30px;
+	height: 18px;
+	margin-top: 10px;
+}
+.for_group{
+	padding: 10px 0px 10px 10px;
+}
+.for_group label{
+	font-size: large;
+}
+.for_group input{
+	width: 600px;
+	height: 45px;
+	border-radius: 5px;
+	margin-top: 10px;
+	padding: 0rem 0rem 3rem 0.75rem;
+}
+.sub{
+	padding: 10px 0px 10px 10px;
+}
+#sub{
+	width: 615px;
+	height: 43px;
+	border-radius: 5px;
+	border: 0px;
+	color: white;
+	background-color: #5dc75d;
+}
